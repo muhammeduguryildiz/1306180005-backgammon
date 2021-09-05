@@ -1,0 +1,8 @@
+﻿  1306180005-backgammon.cpp
+  row.cpp
+  tahta.cpp
+C:\Users\Ugur\source\repos\1306180005-backgammon\1306180005-backgammon\tahta.cpp(554,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Ugur\source\repos\1306180005-backgammon\1306180005-backgammon\tahta.cpp(565,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Ugur\source\repos\1306180005-backgammon\1306180005-backgammon\tahta.cpp(608,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  Kod Üretiliyor...
+  1306180005-backgammon.vcxproj -> C:\Users\Ugur\source\repos\1306180005-backgammon\Debug\1306180005-backgammon.exe

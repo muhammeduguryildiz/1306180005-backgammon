@@ -1,0 +1,8 @@
+1. tur
+ugur oyuncusunun zarlarý: 
+zar 1 :6
+zar 2 :5
+2. tur
+utku oyuncusunun zarlarý: 
+zar 1 :3
+zar 2 :3
